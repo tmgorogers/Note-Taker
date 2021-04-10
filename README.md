@@ -23,15 +23,19 @@
     *[Test](#test)
     *[Questions](#question)
     
-## Description: Create an application called Note Taker that can be used to write and save notes.  This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+## Description: 
+Create an application called Note Taker that can be used to write and save notes.  This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
-## Installation: npm express, fs, uuid and util.
+## Installation: 
+npm express, fs, uuid and util.
 
-## Usage: A small business owner want to write and save notes. So that they can organize their thoughts and keep track of tasks they need to complete.
+## Usage: 
+A small business owner want to write and save notes. So that they can organize their thoughts and keep track of tasks they need to complete.
 
 ## License: MIT
 
-## Contribution: Pull requests are welcome.  For major changes, please open an issue first to discuss what you would like to change.
+## Contribution: 
+Pull requests are welcome.  For major changes, please open an issue first to discuss what you would like to change.
 
     
 ## Questions:
