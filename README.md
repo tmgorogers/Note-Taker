@@ -5,7 +5,7 @@
 ## Screenshots
 
 
-![Screenshots](./Note-Taker/Note_Taker.png)
+[Screenshots](./Note-Taker/Note_Taker.png)
 
 ![Screenshots](./Note-Taker/Note_taker_Main.png)
 
